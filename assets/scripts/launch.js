@@ -6,7 +6,7 @@ function tryLaunch() {
     
     if (parking == 1) {
         launchOk = 0;
-        msg = "Parking break engaged";
+        msg = "Parking  break engaged";
     }
 
     if (battery == 0) {
